@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
 Copyright (C) 2009/2010/2011 Ulrich Apel.
-This work is distributed under the conditions of the Creative Commons 
+This work is distributed under the conditions of the Creative Commons
 Attribution-Share Alike 3.0 Licence. This means you are free:
 * to Share - to copy, distribute and transmit the work
 * to Remix - to adapt the work
@@ -47,8 +47,8 @@ kvg:type CDATA #IMPLIED >
 		<g id="kvg:04e31-g4" kvg:element="丨" kvg:radical="general">
 			<path id="kvg:04e31-s3" kvg:type="㇑" d="M88.77,19.33c0.98,0.92,1.76,1.99,1.76,5.02c0,8.4,0.1,25.15,0.1,36.4"/>
 		</g>
-		<path id="kvg:04e31-s4" kvg:type="㇑" d="M66.75,59.5C70,59.5,86.5,57.5,90.75,57"/>
-		<path id="kvg:04e31-s5" kvg:type="㇐" d="M64.27,11.33c0.98,0.92,1.67,1.99,1.76,5.02c0.15,5.47,0.1,68.65,0.1,83.4"/>
+		<path id="kvg:04e31-s4" kvg:type="㇐" d="M66.75,59.5C70,59.5,86.5,57.5,90.75,57"/>
+		<path id="kvg:04e31-s5" kvg:type="㇑" d="M64.27,11.33c0.98,0.92,1.67,1.99,1.76,5.02c0.15,5.47,0.1,68.65,0.1,83.4"/>
 	</g>
 </g>
 </g>

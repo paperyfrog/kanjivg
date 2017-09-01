@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
 Copyright (C) 2009/2010/2011 Ulrich Apel.
-This work is distributed under the conditions of the Creative Commons 
+This work is distributed under the conditions of the Creative Commons
 Attribution-Share Alike 3.0 Licence. This means you are free:
 * to Share - to copy, distribute and transmit the work
 * to Remix - to adapt the work
@@ -67,7 +67,7 @@ kvg:type CDATA #IMPLIED >
 	</g>
 	<g id="kvg:061ff-g9" kvg:element="恣" kvg:position="right">
 		<g id="kvg:061ff-g10" kvg:element="次" kvg:variant="true" kvg:position="top">
-			<g id="kvg:061ff-g11" kvg:element="冫" kvg:variant="true" kvg:position="left">
+			<g id="kvg:061ff-g11" kvg:element="冫" kvg:original="二" kvg:variant="true" kvg:position="left">
 				<g id="kvg:061ff-g12" kvg:position="top">
 					<path id="kvg:061ff-s13" kvg:type="㇐" d="M48.67,26.5c0.43,0.07,1.26,0.37,2.01,0.3c3.51-0.33,9.1-1.29,11.42-1.62c0.66-0.09,1.26,0.12,1.59,0.24"/>
 				</g>
@@ -105,14 +105,14 @@ kvg:type CDATA #IMPLIED >
 	<text transform="matrix(1 0 0 1 29.50 79.50)">11</text>
 	<text transform="matrix(1 0 0 1 2.50 96.50)">12</text>
 	<text transform="matrix(1 0 0 1 48.50 23.50)">13</text>
-	<text transform="matrix(1 0 0 1 52.50 41.50)">14</text>
+	<text transform="matrix(1 0 0 1 46 62)">14</text>
 	<text transform="matrix(1 0 0 1 62.25 16.50)">15</text>
 	<text transform="matrix(1 0 0 1 77.50 22.50)">16</text>
 	<text transform="matrix(1 0 0 1 70.50 39.50)">17</text>
 	<text transform="matrix(1 0 0 1 83.00 44.50)">18</text>
 	<text transform="matrix(1 0 0 1 47.50 76.50)">19</text>
-	<text transform="matrix(1 0 0 1 64.25 67.50)">20</text>
-	<text transform="matrix(1 0 0 1 57.50 85.20)">21</text>
+	<text transform="matrix(1 0 0 1 57.50 85.20)">20</text>
+	<text transform="matrix(1 0 0 1 64.25 67.50)">21</text>
 	<text transform="matrix(1 0 0 1 79.75 67.50)">22</text>
 </g>
 </svg>
